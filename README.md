@@ -1,5 +1,4 @@
 # Automatic-Trash-Seperator
-# Automatic-Trash-Seperator
 This is a mini project for environment .
 What is ATS ?
   -> Automatic separation of different types of garbage like metal and non-metal.
